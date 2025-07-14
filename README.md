@@ -1,4 +1,4 @@
-#👥 HR Analytics Dashboard Using Python & Power BI 
+👥 HR Analytics Dashboard Using Python & Power BI 
 (DEPI Graduation Project)
 
 
@@ -20,36 +20,37 @@ To Explore Real-World HR Challenges Through Data. The Objective Was To Support B
 
 📊 Focus Areas (Dashboards) Included:
 
-Turnover Analysis:
+✅ Turnover Analysis:
 
 Uncovered Patterns Behind Employee Exits, Related To Culture, Performance, Or Workload.
 
-Leadership Impact:
+✅ Leadership Impact:
 
 Measured How Leadership Styles Affected Team Stability And Employee Retention.
 
-Recruitment Channel Evaluation:
+✅ Recruitment Channel Evaluation:
 
 Assessed Which Platforms Brought Not Just More Hires — But Better Ones.
 
-Diversity & Inclusion:
+✅ Diversity & Inclusion:
 
 Reviewed Hiring Fairness And Proposed Steps To Enhance Representation.
 
-Workload Vs. Satisfaction:
+✅ Workload Vs. Satisfaction:
 
 Used Working Hours To Detect Burnout Risks And Satisfaction Gaps.
 
-Compensation Fairness:
+✅ Compensation Fairness:
 
 Compared Pay With Performance To Uncover Discrepancies Affecting Morale.
 
-Training Effectiveness:
+✅ Training Effectiveness:
 
 Measured The Impact Of Development Programs On Engagement And Retention.
 
 
 💡 This Project Was More Than A Dashboard — It Was A Full Data-Driven Business Story. We Transformed Complex HR Questions Into Clear Visuals And Actionable Insights, Bridging The Gap Between Data And Strategic Action.
+
 
 🎓 Project Team:
 
